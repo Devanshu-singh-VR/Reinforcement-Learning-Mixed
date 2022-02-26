@@ -1,2 +1,3 @@
-# Reinforcement-Learning-Mixed
+# Reinforcement Learning
 
+Python code for the assignments of the course on RL by Uni of A with the OpenAI Gym environment, from scratch baby🤟.........
